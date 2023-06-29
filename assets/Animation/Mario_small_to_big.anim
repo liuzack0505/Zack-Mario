@@ -1,0 +1,109 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Mario_small_to_big",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "487cde78-5d5a-4ff4-aba0-716cb2738871"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "b3a4d251-d2c7-42ef-92b6-ec7deb240817"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "487cde78-5d5a-4ff4-aba0-716cb2738871"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "b3a4d251-d2c7-42ef-92b6-ec7deb240817"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "487cde78-5d5a-4ff4-aba0-716cb2738871"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "b3a4d251-d2c7-42ef-92b6-ec7deb240817"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0.5,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 0.3,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.25,
+          "value": 0.5,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 0.3,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.5,
+          "value": 0.5,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0.3,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.75,
+          "value": 0.5
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.08333333333333333,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.75,
+      "func": "",
+      "params": []
+    }
+  ]
+}

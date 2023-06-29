@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "43f686a8-dafa-46df-a338-9edeb4496bc9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 384,
+  "height": 216,
+  "platformSettings": {},
+  "subMetas": {
+    "Grassy_Mountains_preview_fullcolor": {
+      "ver": "1.0.6",
+      "uuid": "1c045e20-c9e5-4068-93aa-6ae5ba63fdda",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "43f686a8-dafa-46df-a338-9edeb4496bc9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 384,
+      "height": 216,
+      "rawWidth": 384,
+      "rawHeight": 216,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

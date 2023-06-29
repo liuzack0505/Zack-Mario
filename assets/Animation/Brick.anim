@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Brick",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "00b30fc1-463b-4d4f-9445-8d5b98c44fca"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "3b8b90a2-fff6-4294-80ad-7ee519e6cdee"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ce2da24b-129c-4f6f-9038-7237a6e1cfa2"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "216fc969-6609-4729-b44c-61a3912ed635"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "",
+      "params": []
+    }
+  ]
+}
